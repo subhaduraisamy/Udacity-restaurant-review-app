@@ -7,7 +7,7 @@ Student Project #6 during Google Front-End Development Nanodegree Program at Uda
 
 ## About the project
 
-In Restaurant Reviews project,
+In Restaurant Reviews project,below are the changes made:
 - converted a static webpage to a mobile-ready web application. 
 - Fixed accessibility issues and converted to be responsive on different sized displays and accessible for screen reader use. 
 - Added a service worker to begin the process of creating a seamless offline experience for my users.
@@ -18,7 +18,7 @@ In Restaurant Reviews project,
 ### How to run the application
 
 
-   Click this link [LIVE PROJECT](https://subhaduraisamy.github.io/mws-restaurant-stage-1/)
+   Click this link [LIVE PROJECT](https://subhaduraisamy.github.io/Udacity-restaurant-review-app/)
    
    OR
    
