@@ -39,4 +39,5 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 ## License
 
 [MIT](https://github.com/subhaduraisamy/Udacity-restaurant-review-app/blob/master/LICENSE) License
+
 Copyright (c) 2019 Subha Duraisamy
